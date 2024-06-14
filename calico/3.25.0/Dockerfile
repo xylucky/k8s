@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/etcd:3.3.10
+FROM docker.io/calico/cni:v3.25.0

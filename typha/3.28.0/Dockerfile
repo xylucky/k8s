@@ -1,1 +1,1 @@
-FROM docker.io/calico/pod2daemon-flexvol:v3.28.0
+FROM docker.io/calico/typha:v3.28.0
